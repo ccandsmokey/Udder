@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "milk-carton-boxes-icon-illustration-isolated_385450-85.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
